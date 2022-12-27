@@ -11,6 +11,7 @@ function updateCounter() {
     // if(count == null){
     //    set.count(1);
     // }
+    
     if(count == null){
         count = 1;
     }
