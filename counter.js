@@ -9,6 +9,8 @@ function updateCounter() {
   
     if(count == null){
         count = 1;
+
+        
     }
     else { 
         count ++;
