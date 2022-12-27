@@ -19,8 +19,7 @@ body{
     padding-left: 0px;
     padding-right: 0px;
 }
-.home{		
-}
+
 .header-section {
   background: #deecdf;
   background-image: url('../img/1.jpg');
@@ -101,8 +100,7 @@ span.glyphicon.glyphicon-triangle-bottom {
 @media only screen and (max-width:1281px) { /* hi-res laptops and desktops */ 
 }
 
-.skills{
-}
+
 .experience{
 	background-color: rgba(255,244,1,0.4);	height: 100vh;
 	text-align: center;	
@@ -377,8 +375,7 @@ font-size: 2em;
   border: 2px solid;
   padding: 1em;
 }
-.contactMe{
-}
+
 .contact-section {
   padding: 4em 0;
   background: #deecdf;
