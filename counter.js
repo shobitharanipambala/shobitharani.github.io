@@ -7,13 +7,13 @@ function updateCounter() {
      * if count is null then set count to 1
     * else increment the count by 1 (Note: count is a string so convert it to number using parseInt)
     */
-    parseInt(count);
-    if (count == null){
+    
+    if (count == String(null)){
         count =1;
        
     }
     else {
-        count++;
+        count = parseInt(count)+1;
         
     }
     localStorage.setItem('visiterCount', count);
